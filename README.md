@@ -9,7 +9,7 @@
 
 - 👯 Web-2 and Web-3 developers can collaborate on [BayzCrypt](bayzcrypt.vercel.app)
 
-- 📫 How to reach me **bayzcrypt2024@gmail.com**
+- 📫 How to reach us **bayzcrypt2024@gmail.com**
 
 - ⚡ Fun fact **Team Work, Dream Work**
 
