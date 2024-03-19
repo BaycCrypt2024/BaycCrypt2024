@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! Welcome to BayzCrypt</h1>
-<h3 align="center">BayzCrypt is a decentralized application that enables people to easily move and send ERC-20 coin to different in the world</h3>
+<h3 align="center">BayzCrypt is a decentralized application that enables people to easily move and send ERC-20 coin to different wallets in the world</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayccrypt2024&label=Profile%20views&color=0e75b6&style=flat" alt="bayccrypt2024" /> </p>
 
