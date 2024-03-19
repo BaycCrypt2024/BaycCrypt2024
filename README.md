@@ -11,9 +11,9 @@
 
 - 📫 How to reach us **bayzcrypt2024@gmail.com**
 
-- ⚡ Fun fact **Team Work, Dream Work**
+- ⚡ Fun fact: **Team Work, Dream Work**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/wedcamzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/wedcamzs" height="30" width="40" /></a>
 </p>
